@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bc1a81c1549388419ce23dbedae2f98, type: 3}
+  m_Name: fountain_4_light
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3118581538944598953, guid: c87aac088522dc44fb75cdc9af81798c, type: 3}
+  visual: {fileID: 3118581538944598953, guid: 0f47af8e0bddf5f47b79973c58a221dd, type: 3}

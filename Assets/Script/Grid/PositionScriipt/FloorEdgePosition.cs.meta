@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 4c5328f2b0b35f94ab0280b3d788fa42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - floorChildEdgePrefab: {fileID: 7819692961149401094, guid: 8a597b41c5f0887429c87187212e2944, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

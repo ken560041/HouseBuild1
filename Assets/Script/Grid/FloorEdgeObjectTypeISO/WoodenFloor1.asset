@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c6dc9f6dc702ab4ca71aa2be0a357a5, type: 3}
+  m_Name: WoodenFloor1
+  m_EditorClassIdentifier: 
+  nameString: WoodenFloor1
+  prefab: {fileID: 3624874900749610804, guid: db76c532b8e677f42a438623a24aeba3, type: 3}
+  visual: {fileID: 3624874900749610804, guid: 8c7d488974f6b9c4cb04f846c33a00bf, type: 3}
+  width: 6
+  height: 6
